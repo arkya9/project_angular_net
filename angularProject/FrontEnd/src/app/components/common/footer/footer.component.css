@@ -1,0 +1,13 @@
+.sticky-footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  padding: 5px 0; /* Reduce padding to make the footer smaller */
+  background-color: #f8f9fa;
+  border-top: 1px solid #e7e7e7;
+}
+
+.copyright {
+  color: #6c757d;
+  font-size: 12px; /* Smaller font size */
+}
